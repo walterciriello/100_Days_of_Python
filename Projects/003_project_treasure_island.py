@@ -3,6 +3,7 @@
 print("Welcome to Treasure Island!")
 print("Your mission is to find the treasure.")
 
+# using nested conditional structures "if", "elif" e "esle"
 left_right = input("Your plane just crashed on the island! You can choose whether to go 'right' or 'left'? ").lower()
 if left_right == "left":
     swin_wait = input("You have come to a deep river. I would like to 'swim' or 'wait' for a boat? ").lower()
