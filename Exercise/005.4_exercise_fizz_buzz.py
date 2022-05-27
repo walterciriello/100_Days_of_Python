@@ -1,4 +1,4 @@
-# FizzBuzz
+# FizzBuzz (game)
 
 # using loop with defined range and conditionals
 for number in range(1, 101):
