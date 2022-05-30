@@ -7,4 +7,4 @@ Curso tem duração de 100 dias, com obejtivo de ir do básico ao avançado em P
 
 Carga horária: ***64 horas***
 
-obs: curso em andamento
+obs: curso em andamento!
