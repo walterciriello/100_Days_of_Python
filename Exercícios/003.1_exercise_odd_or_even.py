@@ -1,4 +1,4 @@
-# Number odd or even - exercise
+# Number odd or even - exercise test
 
 number = int(input("Which number do you want to check? "))
 
