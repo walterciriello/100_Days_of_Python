@@ -5,6 +5,6 @@ Contém os arquivos dos exercícios e dos projetos desenvolvidos durante o curso
 
 Curso tem duração de 100 dias, com obejtivo de ir do básico ao avançado em Python, criando um projeto por dia.
 
-Carga Horária: ***64 horas***
+Carga horária: ***64 horas***
 
 obs: curso em andamento
