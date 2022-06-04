@@ -1,6 +1,6 @@
-from art_009 import logo
+from art import logo_secret_action
 import os
-print(logo)
+print(logo_secret_action)
 
 bids = {}
 bidding_finished = False
