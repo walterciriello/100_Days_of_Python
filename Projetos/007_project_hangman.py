@@ -1,7 +1,7 @@
 # Hangman
 
 import random
-from hangman_words_and_art import word_list, stages, logo
+from art_and_word_hangman import word_list, stages, logo
 
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
