@@ -10,9 +10,6 @@ lives = 6
 
 print(logo)
 
-# testing code
-print(f'Pssst, the solution is {chosen_word}.')
-
 # creating whitespace inside the list
 display = []
 for _ in range(word_length):
